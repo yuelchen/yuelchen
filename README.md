@@ -12,9 +12,9 @@ Welcome to the place where I come to store and develop my projects.
 - ⚡ Fun fact: ♻️-ing is a passion
 
 ### Get Connected
-[![LinkedIn](./static/icons/linkedin-24x24.png)](https://www.linkedin.com/in/yuelchen) 
-[![Instagram](./static/icons/instagram-24x24.png)](https://www.instagram.com/yuelchen) 
-[![Twitter](./static/icons/twitter-24x24.png)](https://twitter.com/yuelchen93) 
+[![LinkedIn](https://github.com/yuelchen/yuelchen/blob/master/static/icons/linkedin-24x24.png)](https://www.linkedin.com/in/yuelchen) 
+[![Instagram](https://github.com/yuelchen/yuelchen/blob/master/static/icons/instagram-24x24.png)](https://www.instagram.com/yuelchen) 
+[![Twitter](https://github.com/yuelchen/yuelchen/blob/master/static/icons/twitter-24x24.png)](https://twitter.com/yuelchen93) 
 
 ### Certifications
 [![Hortonworks Certified Administrator](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/hdpca-100x100.png)](http://bcert.me/sxcrztfb) 
