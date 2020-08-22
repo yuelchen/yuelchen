@@ -17,6 +17,6 @@ Welcome to the place where I come to store and develop my projects.
 [![Twitter](./static/icons/twitter-24x24.png)](https://twitter.com/yuelchen93) 
 
 ### Certifications
-[![Hortonworks Certified Administrator](./static/certifications/hdp-ca.png)](http://bcert.me/sxcrztfb) 
-[![AWS Certified Solutions Architect - Associate](./static/certifications/aws-csa-a.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-12-01&ci=AWS00699685) 
-[![AWS Certified Developer - Associate](./static/certifications/aws-cd-a.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-01-23&ci=AWS00699685) 
+[![Hortonworks Certified Administrator](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/hdpca-100x100.png)](http://bcert.me/sxcrztfb) 
+[![AWS Certified Solutions Architect - Associate](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/awscsaa-100x100.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-12-01&ci=AWS00699685) 
+[![AWS Certified Developer - Associate](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/awscda-100x100.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-01-23&ci=AWS00699685) 
