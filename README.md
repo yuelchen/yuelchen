@@ -9,7 +9,7 @@ Feel free to browse around and be sure to take a look at my pinned repositories 
 - 👯 I’m looking to collaborate on eco-friendly projects
 - 📚 BS in Computer Science, 2015
 - 💬 Ask me about anything
-- ⚡ Fun fact: ♻️-ing is a passion
+- ⚡ Fun fact: ♻️-ing is my passion
 
 ### Follow Me
 [![LinkedIn](https://github.com/yuelchen/yuelchen/blob/master/static/icons/linkedin-24x24.png)](https://www.linkedin.com/in/yuelchen) 
