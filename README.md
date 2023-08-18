@@ -13,5 +13,3 @@ Feel free to stay a while and browse my repos.
 - 📚 BS in Computer Science, 2015
 - ⚡ Fun fact: Won't let alopecia areata or IBS stop me from living my best life. 
 
-### Socials
-https://linktr.ee/yuelchen
