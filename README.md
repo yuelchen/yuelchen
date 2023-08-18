@@ -1,22 +1,17 @@
 ### Hey there! 👋
-Welcome to the place where I come to explore, develop and store my projects. 
+My name is Yue and welcome to my GitHub repository. 
 
-Feel free to browse around and be sure to take a look at my pinned repositories below. 
+A little about me, I'm a software engineer with a BS in computer science. Like many fellow engineers these days, my love for programming stems from gaming. 
+In 2007, when I was still in middle school, I saw first hand how a monster, in a video game, was created through a single function call. 
+It seemed so simple, yet surprisingly complex; from there, I was hooked!
 
-### About Me
+Feel free to stay a while and browse my repos. 
+
+### Latest
 - 🔭 I’m currently working on something private 😉  
 - 🌱 I’m currently learning everything that I can
-- 👯 I’m looking to collaborate on eco-friendly projects
 - 📚 BS in Computer Science, 2015
-- 💬 Ask me about anything
-- ⚡ Fun fact: ♻️ -ing is my passion
+- ⚡ Fun fact: Won't let alopecia areata or IBS stop me from living my best life. 
 
-### Follow Me
-[![LinkedIn](https://github.com/yuelchen/yuelchen/blob/master/static/icons/linkedin-24x24.png)](https://www.linkedin.com/in/yuelchen) 
-[![Instagram](https://github.com/yuelchen/yuelchen/blob/master/static/icons/instagram-24x24.png)](https://www.instagram.com/yuelchen) 
-[![Twitter](https://github.com/yuelchen/yuelchen/blob/master/static/icons/twitter-24x24.png)](https://twitter.com/yuelchen93) 
-
-### My Certifications
-[![Hortonworks Certified Administrator](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/hdpca-64x64.png)](http://bcert.me/sxcrztfb) 
-[![AWS Certified Solutions Architect - Associate](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/awscsaa-64x64.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-12-01&ci=AWS00699685) 
-[![AWS Certified Developer - Associate](https://github.com/yuelchen/yuelchen/blob/master/static/certifications/awscda-64x64.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-01-23&ci=AWS00699685) 
+### Socials
+https://linktr.ee/yuelchen
