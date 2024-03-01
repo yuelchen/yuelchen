@@ -8,8 +8,8 @@ It seemed so simple, yet surprisingly complex (back-end); from there, I was hook
 Feel free to stay a while and browse my repos.
 
 ### Latest
-- 🔭 I’m currently working on something private 😉  
-- 🌱 I’m currently learning... about 🤖
+- 🔭 I’m currently working on... something private 😉  
+- 🌱 I’m currently learning... about AI 🤖
+- 😣 I'm currently looking for help with... GCP, FLutter and Unreal Engine
 - 📚 BS in Computer Science, 2015
 - ⚡ Fun fact: Won't let alopecia areata or IBS stop me from living my best life.
-
